@@ -1,0 +1,4 @@
+name: LightJoin
+version: ${project.version}
+main: us.rojo.rconnect.rConnect
+author: R0JO
